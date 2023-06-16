@@ -1,26 +1,30 @@
 # BMI Calculator
 ![Project Img](/252201723_2710138512622162_9114199635413314068_n.jpg)
 
-I am a college student who started working part-time after entering college. Initially, I would spend the money I earned from work on things that I liked, but later on, I realized that as an adult, I needed to develop a habit of saving money. 
+As a high school freshman, my motivation to create a BMI calculator stems from several reasons:
 
-So, I began researching bank fixed deposits and some compound interest savings plans. Eventually, I decided to use compound interest as one of my saving methods, and thus developed this system to help me easily and quickly calculate the compound interest results for different interest rates and years.
+1.Health awareness: I have already begun to realize the importance of my health and well-being. Developing a BMI calculator will enable me and my classmates to better understand and monitor our body mass index, thereby empowering us to manage and maintain our health more effectively.
 
-`Hope I can save more money!!!`
+2.Academic learning: Creating a BMI calculator allows me to apply the knowledge and skills I have gained in subjects such as mathematics and programming. It presents an opportunity for practical and applied learning, enabling me to translate theoretical knowledge into a tangible and useful tool, thus enhancing my overall academic performance.
+
+3.Technical interest: I have a keen interest in computer science and programming. Developing a BMI calculator not only ignites my passion for coding but also provides an avenue for me to explore and showcase my programming abilities. It allows me to satisfy my curiosity in technology while sharpening my programming skills.
+
+In summary, as a high school freshman, my motivation to create a BMI calculator arises from my health awareness, desire for academic growth, and technical interests. By undertaking this project, I can foster various skills and contribute value to myself and my peers by offering a convenient tool for calculating and understanding our body weight status
+`Hope I can be more HEATHY!!!`
 
 
 ## Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
+This projects is built with the following tools and app.
 * Python
-* Visual Studio Code
+* Anaconda
 
 ## Installation
 
-_This program does require the installation of Python & Visual Studio Code._
+_This program does require the installation of Python & Anaconda._
 
 1. [Python](https://www.python.org)
-2. [Visual Studio Code](https://code.visualstudio.com)
+2. [Anaconda](https://www.anaconda.com)
 
 
 ## Process
@@ -44,18 +48,17 @@ This project is divided into the following five processes:
   ```
 * 5
   ```
-  All in one
+   Mainloop()
   ```
   
   
 ## Result
 
-Using this compound interest calculator can help me quickly calculate how much money I can save each year and month, and then see how much it can grow with compound interest. It is a convenient, simple and practical small system. The following two pictures show the starting screen and the calculation result screen.
-
-![Project Img1](/beach.jpg)
-![Project Img2](/venom.jpg)
-![Project Img2](/IMG_1285.JPG)
-![Project Img2](/IMG_3034.jpg)
+Using this BMI Calculator helps me to check my body status everyweek . The following four pictures show the starting screen and the calculation result screen.
+![Project Img1](/354411663_1409175762991139_7145482562031075855_n.png)
+![Project Img1](/354776131_1917154201998147_3859641262418964304_n.png)
+![Project Img1](/355024442_518549993707256_7556967289092965579_n.png)
+![Project Img1](/353814605_251836404124693_329601716798826848_n.png)
 
 _For more examples, please refer to the [Official Website](https://www.tripletw.com)_
 
@@ -67,4 +70,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Allen - [Facebook](https://www.tripletw.com) & [Gmail](wang0911309998@gmail.com)
+Samuel - [Facebook](https://www.facebook.com/samuel.hu.589)& [Gmail](samuelhu1008@gmail.com)
